@@ -1,0 +1,17 @@
+{
+  "defaultAction": "SCMP_ACT_ALLOW",
+  "archMap": [
+    { "architecture": "SCMP_ARCH_X86_64", "subArchitectures": [] }
+  ],
+  "syscalls": [
+    {
+      "names": [
+        "ptrace",
+        "unshare",
+        "mount",
+        "setns"
+      ],
+      "action": "SCMP_ACT_ERRNO"
+    }
+  ]
+}
