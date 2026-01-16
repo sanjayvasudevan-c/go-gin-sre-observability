@@ -637,10 +637,4 @@ If you want to make your README even stronger, you can add:
 
 ### “Run Only the Backend”
 
-```
-#### Docker-compose up prometheus alertmanager
-```shell
-- checj logs
-```
-#### Docker-compose logs-f
-
+---
