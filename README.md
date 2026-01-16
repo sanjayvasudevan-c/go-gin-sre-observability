@@ -348,3 +348,48 @@ If you want to make your README even stronger, you can add:
 ### “Run Only the Backend”
 
 ---
+---
+
+# Graphs
+
+#### In this i have used 
+
+- prometheus
+- grafana 
+- alertmanager
+ 
+---> it monitor cpu spike , memory usage , threads etc..
+
+`
+
+###dashboards
+
+```
+
+![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
+/Screenshot from 2026-01-16 20-45-58.png)
+
+```
+```
+![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
+/Screenshot from 2026-01-16 20-46-05.png)
+
+```
+```
+![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
+/Screenshot from 2026-01-16 20-46-12.png)
+```
+```
+![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
+/Screenshot from 2026-01-16 20-46-33.png)
+
+```
+```
+![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
+/Screenshot from 2026-01-16 20-46-40.png)
+```
+
+#### Thankyou for visiting
+
+---
+
