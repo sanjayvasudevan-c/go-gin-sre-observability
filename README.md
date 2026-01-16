@@ -360,8 +360,6 @@ If you want to make your README even stronger, you can add:
  
 ---> it monitor cpu spike , memory usage , threads etc..
 
-`
-
 ###dashboards
 
 ```
@@ -372,21 +370,21 @@ If you want to make your README even stronger, you can add:
 ```
 ```
 ![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
-/Screenshot from 2026-01-16 20-46-05.png)
+/'Screenshot from 2026-01-16 20-46-05.png')
 
 ```
 ```
 ![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
-/Screenshot from 2026-01-16 20-46-12.png)
+/'Screenshot from 2026-01-16 20-46-12.png')
 ```
 ```
 ![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
-/Screenshot from 2026-01-16 20-46-33.png)
+/'Screenshot from 2026-01-16 20-46-33.png')
 
 ```
 ```
 ![ Dashboard-1](/home/sanjay-vasudevan/Pictures/Screenshots
-/Screenshot from 2026-01-16 20-46-40.png)
+/'Screenshot from 2026-01-16 20-46-40.png')
 ```
 
 #### Thankyou for visiting
